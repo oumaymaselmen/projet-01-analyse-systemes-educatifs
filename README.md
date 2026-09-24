@@ -30,6 +30,9 @@ Source officielle : https://datacatalog.worldbank.org/search/dataset/0038480
 Installer les dependances :
 poetry install
 
+## Résultats
+Nettoyage et analyse exploratoire de données éducatives ouvertes
+
 Lancer JupyterLab :
 poetry run jupyter lab
 
